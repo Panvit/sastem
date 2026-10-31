@@ -6,7 +6,7 @@ sasteam — это десктопный мессенджер с современ
 
 Клиентская часть: Python 3.x, customtkinter
 
-Серверная часть: Visual Studio (C# / C++)
+Серверная часть: python (socet)
 
 Система контроля версий: Git / GitHub
 
